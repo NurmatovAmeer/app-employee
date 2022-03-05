@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17d3a5bd-fc87-4566-973f-d1194cc6dc6a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="22MUuWrdQn0GR9RLFwwx5MjoPgh" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\WebstormProjects\Lesson 12 employee Javascript" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17d3a5bd-fc87-4566-973f-d1194cc6dc6a" name="Default Changelist" comment="" />
+      <created>1639647172441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639647172441</updated>
+      <workItem from="1639647173643" duration="5005000" />
+      <workItem from="1639708919382" duration="651000" />
+      <workItem from="1639710432348" duration="1732000" />
+      <workItem from="1639712216585" duration="1300000" />
+      <workItem from="1639756012210" duration="1740000" />
+      <workItem from="1639815674284" duration="113000" />
+      <workItem from="1639816062876" duration="196000" />
+      <workItem from="1639816991132" duration="1452000" />
+      <workItem from="1642008145550" duration="1025000" />
+      <workItem from="1642011288578" duration="8000" />
+      <workItem from="1642011305050" duration="1651000" />
+      <workItem from="1642063869649" duration="31000" />
+      <workItem from="1642336833295" duration="35000" />
+      <workItem from="1643022290686" duration="769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
